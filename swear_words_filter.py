@@ -9,7 +9,7 @@ def read_file(file, type_to):
 
 
 """
-Take two lists and return and dictionary
+Take two lists and return a dictionary
 The items of l1 will be the keys and l2 will be the values
 """
 
